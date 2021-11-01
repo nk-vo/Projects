@@ -18,7 +18,7 @@ def compute_e(n):
 
 
 while True:
-    n = int(input("Enter desired Nth digit of Pi: "))
+    n = int(input("Enter desired Nth digit of e: "))
     if n >= 0 and n <= 1000:
         break
 
